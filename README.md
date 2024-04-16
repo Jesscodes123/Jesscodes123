@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Jesscodes123 
-- 🌱 I’m currently learning C++, C, HTML.
-- 💞️ I’m looking to collaborate on anything and everything.
-- 📫 How to reach me jessicapaul175@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm double jointed.
+Welcome 👋
+My name is Jessica, I am a computer science ethusiast with a talent in problem-solving. I love leveraging new technology and engaging in all forms of software development and machine learning.
 
+💻 Computer Science graduate student with a passion for software development and and cybersecurity
+🚀 Strong foundation in programming languages like Java, and python.
+🌟 Proactive learner,learning anything and everything.
+📧 Email: jessicapaul175@gmail.com
 <!---
 Jesscodes123/Jesscodes123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
