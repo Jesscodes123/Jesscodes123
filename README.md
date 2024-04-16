@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Jesscodes123  I'm just your friendly neighborhood coder, armed with a keyboard, a curious mind, and a penchant for turning caffeine into code. 
-- 👀 I’m interested in gaming and solving puzzles!
+- 👋 Hi, I’m @Jesscodes123 
 - 🌱 I’m currently learning C++, C, HTML.
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me jessicapaul175@gmail.com
